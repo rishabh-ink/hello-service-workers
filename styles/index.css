@@ -1,0 +1,38 @@
+body {
+  background-color: #555;
+  color: #eee;
+  font-family: sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  min-width: 200px;
+}
+
+.container {
+  text-align: center;
+}
+
+.albums {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding-left: 0;
+}
+
+.album {
+  background-color: #333;
+  border-radius: 3px;
+  box-shadow: 0 0 10px 0 #444;
+  margin: 1rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.banner,
+.cover {
+  max-width: 100%;
+}
+
+.releaseDate {
+  font-style: italic;
+}

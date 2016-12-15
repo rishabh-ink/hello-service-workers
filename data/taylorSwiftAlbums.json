@@ -1,0 +1,25 @@
+{
+  "albums": [
+    {
+      "cover": "Taylor Swift - Taylor Swift.png",
+      "title": "Taylor Swift",
+      "releaseDate": "2006-10-24"
+    }, {
+      "cover": "Taylor Swift - Fearless.png",
+      "title": "Fearless",
+      "releaseDate": "2008-11-11"
+    }, {
+      "cover": "Taylor Swift - Speak Now.png",
+      "title": "Speak Now",
+      "releaseDate": "2010-10-05"
+    }, {
+      "cover": "Taylor Swift - Red.png",
+      "title": "Red",
+      "releaseDate": "2012-10-22"
+    }, {
+      "cover": "Taylor Swift - 1989.png",
+      "title": "1989",
+      "releaseDate": "2014-10-27"
+    }
+  ]
+}
